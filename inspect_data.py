@@ -1,6 +1,6 @@
 import pandas as pd
 import os
-
+##
 print("cwd", os.getcwd())
 for fn in ["Rj_Risk_Matrisi.csv", "Dij_Mesafe_Matrisi.csv"]:
     df = pd.read_csv(fn)
