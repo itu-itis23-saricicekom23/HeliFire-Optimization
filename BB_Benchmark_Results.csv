@@ -1,0 +1,6 @@
+Grids,Variables,Constraints,Status,Objective,Helis,Time (s)
+10,2392,2219,Optimal,61.6699,2,0.174
+25,5152,4994,Optimal,108.6705,3,0.461
+50,9752,9619,Optimal,157.6548,5,0.765
+100,18952,18869,Optimal,272.1118,6,1.842
+294,54648,54759,Optimal,655.4786,16,20.528
